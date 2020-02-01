@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\displayTurn.cs" />
+    <Compile Include="Assets\Scripts\droneBehavior.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/jordunaw/Documents/GGJDunaco/GGJ/GGJDunaco/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
